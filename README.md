@@ -1,2 +1,2 @@
 # Primer-Repositori-PauArenas
-Pau Arenas, és el primer repositori que faig, vinga!
+Mi repositori trata sobre lo que poc a poc aquí posaré tots els passos de com he fet el meu projecte de fin de curs sobre crear un servidor amb diferents base de dades però encara esta en previ, ja que tinc moltes ganes de poder aprendre i fer aquest projecte i demostrar la valía i esforç per estudiar i aquest projecte que tan m'agrada fer i demostrar a la gent que sóc capaç de fer-ho bé i amb ganes millorar tot lo que fagi en el món de la Informàtica que tant m'agrada.
